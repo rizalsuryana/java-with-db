@@ -1,0 +1,4 @@
+Begin     -> Memulai proses yang kita inginkan.
+Commit    -> Kita lakukan , ketika semua transaksi yang kita lakukan sudah berhasil (Membuat perubahan permanent).
+Rollback  -> Mengembalikan kondisi seperti semula seperti sebelum transaksi.
+* Kalau sudah ke commit gak bisa roll back lagi.... nanti ada sistem lain yang namanya pengembalian dana. (Karena sudah ke commit).
